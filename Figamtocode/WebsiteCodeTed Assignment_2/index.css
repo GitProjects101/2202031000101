@@ -1,0 +1,147 @@
+.page-1-child {
+  position: absolute;
+  top: 103px;
+  left: 587px;
+  border-radius: var(--br-3xs);
+  background-color: var(--color-midnightblue);
+  width: 128px;
+  height: 11px;
+}
+.tedio {
+  position: absolute;
+  top: 14px;
+  left: 50px;
+  font-size: var(--font-size-71xl);
+  font-weight: 600;
+}
+.home {
+  font-weight: 500;
+}
+.home,
+.teachers {
+  position: relative;
+}
+.home-parent {
+  position: absolute;
+  top: 54px;
+  left: 588px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  gap: 0 50px;
+  font-size: var(--font-size-28xl);
+  font-family: var(--font-roboto);
+}
+.theres-a-new {
+  margin: 0;
+}
+.theres-a-new-container {
+  position: absolute;
+  top: 269px;
+  left: 50px;
+  font-size: var(--font-size-51xl);
+  line-height: 90px;
+  font-weight: 500;
+}
+.welcome-to-tedio {
+  margin: 0;
+  line-height: 40px;
+}
+.personalized-tutoring-for {
+  margin: 0;
+  line-height: 40px;
+  white-space: pre-wrap;
+}
+.one-on-one-lessons-tailored {
+  line-height: 40px;
+}
+.span {
+  line-height: 43px;
+  white-space: pre-wrap;
+}
+.welcome-to-tedio-container {
+  position: absolute;
+  top: 558px;
+  left: 50px;
+  font-size: var(--font-size-11xl);
+  font-weight: 300;
+  display: inline-block;
+  width: 764px;
+}
+.log-in-wrapper,
+.sign-up-wrapper {
+  position: absolute;
+  top: 824px;
+  left: 50px;
+  border-radius: var(--br-lg);
+  background-color: var(--color-midnightblue);
+  box-shadow: 10px 10px 4px rgba(0, 0, 0, 0.25) inset;
+  width: 288.5px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  padding: var(--padding-7xl);
+  box-sizing: border-box;
+  color: var(--color-white);
+  font-family: var(--font-roboto);
+}
+.sign-up-wrapper {
+  left: 391.5px;
+  height: 105px;
+}
+.group-icon,
+.page-1-child1,
+.page-1-inner,
+.page-1-item {
+  position: absolute;
+  height: 51.27%;
+  width: 37.31%;
+  top: 26.27%;
+  right: 3.67%;
+  bottom: 22.46%;
+  left: 59.03%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.group-icon,
+.page-1-child1,
+.page-1-inner {
+  height: 10.91%;
+  width: 10.98%;
+  top: 14.55%;
+  right: 77.7%;
+  bottom: 74.54%;
+  left: 11.32%;
+  object-fit: contain;
+}
+.page-1-child1,
+.page-1-inner {
+  height: 28.76%;
+  width: 20.56%;
+  top: 11.76%;
+  right: -3.69%;
+  bottom: 59.48%;
+  left: 83.13%;
+}
+.page-1-child1 {
+  height: 25.88%;
+  width: 18.51%;
+  top: 75%;
+  right: 20.97%;
+  bottom: -0.88%;
+  left: 60.52%;
+}
+.page-1 {
+  width: 100%;
+  position: relative;
+  background-color: var(--color-white);
+  height: 1024px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-26xl);
+  color: var(--color-gray-200);
+  font-family: var(--font-poppins);
+}

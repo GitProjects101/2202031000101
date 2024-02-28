@@ -1,0 +1,87 @@
+.copyright2021-eduio2 {
+  position: absolute;
+  top: 377px;
+  left: 1103px;
+}
+.download3,
+.tedio6 {
+  position: relative;
+}
+.download3 {
+  font-weight: 300;
+}
+.download-container {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 10px 0;
+  font-size: var(--font-size-11xl);
+}
+.solutions-container,
+.tedio-container {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: center;
+  gap: 50px 0;
+}
+.solutions-container {
+  justify-content: flex-start;
+  gap: 14px 0;
+  font-size: var(--font-size-11xl);
+}
+.contact-us-parent1,
+.frame-container,
+.help-center-container,
+.product-container {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 50px 0;
+}
+.contact-us-parent1,
+.frame-container,
+.help-center-container {
+  gap: 9px 0;
+  font-size: var(--font-size-11xl);
+}
+.frame-container,
+.help-center-container {
+  gap: 20px 0;
+}
+.frame-container {
+  position: absolute;
+  top: 15px;
+  left: 106px;
+  flex-direction: row;
+  gap: 0 105px;
+  font-size: var(--font-size-46xl);
+}
+.frame-child5 {
+  width: 48.8px;
+  position: relative;
+  height: 48.8px;
+}
+.group-parent2 {
+  position: absolute;
+  top: 352px;
+  left: 106px;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 0 20px;
+}
+.footer2 {
+  width: 100%;
+  position: relative;
+  background-color: var(--color-gray-100);
+  height: 429px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-6xl);
+  color: var(--color-white);
+  font-family: var(--font-roboto);
+}

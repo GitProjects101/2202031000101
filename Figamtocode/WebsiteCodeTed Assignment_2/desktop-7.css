@@ -1,0 +1,161 @@
+.get-in-touch {
+  position: absolute;
+  top: 158px;
+  left: 477px;
+  font-size: var(--font-size-51xl);
+  font-weight: 500;
+}
+.desktop-7-child {
+  position: absolute;
+  top: 98px;
+  left: 978px;
+  border-radius: var(--br-3xs);
+  background-color: var(--color-midnightblue);
+  width: 220px;
+  height: 11px;
+}
+.tedio3 {
+  position: absolute;
+  top: 11px;
+  left: 52px;
+  font-size: var(--font-size-71xl);
+  font-weight: 600;
+  color: var(--color-gray-200);
+}
+.home2 {
+  position: relative;
+  font-weight: 500;
+}
+.home-container {
+  position: absolute;
+  top: 48px;
+  left: 569px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  gap: 0 50px;
+  font-size: var(--font-size-28xl);
+  color: var(--color-gray-200);
+  font-family: var(--font-roboto);
+}
+.contact-us-for {
+  position: absolute;
+  top: 261px;
+  left: 475px;
+}
+.email-1-icon {
+  width: 80px;
+  position: relative;
+  height: 80px;
+  overflow: hidden;
+  flex-shrink: 0;
+}
+.email-1-parent {
+  position: absolute;
+  top: 338px;
+  left: 335px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  gap: 0 263px;
+}
+.tedgmailcom {
+  position: absolute;
+  top: 449px;
+  left: 250px;
+}
+.ahmedabad,
+.div {
+  position: absolute;
+  text-align: center;
+}
+.div {
+  top: 453px;
+  left: 570px;
+  display: inline-block;
+  width: 294px;
+}
+.ahmedabad {
+  top: 449px;
+  left: 962px;
+}
+.group-child1,
+.group-child2,
+.group-inner {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: var(--br-xs);
+  border: 3px solid var(--color-black);
+  box-sizing: border-box;
+  width: 416px;
+  height: 82px;
+}
+.group-child1,
+.group-child2 {
+  top: 128px;
+}
+.group-child2 {
+  top: 0;
+  left: 466px;
+  width: 414px;
+  height: 210px;
+}
+.your-email,
+.your-name {
+  position: absolute;
+  top: 26px;
+  left: 18px;
+}
+.your-email {
+  top: 154px;
+}
+.rectangle-group,
+.your-message-here {
+  position: absolute;
+  top: 19px;
+  left: 490px;
+}
+.rectangle-group {
+  top: 539px;
+  left: 280px;
+  width: 880px;
+  height: 210px;
+  font-size: var(--font-size-xl);
+  color: var(--color-gray-300);
+}
+.submit {
+  position: relative;
+}
+.submit-wrapper {
+  position: absolute;
+  top: 817px;
+  left: 602px;
+  border-radius: var(--br-lg);
+  background-color: var(--color-gray-200);
+  box-shadow: 5.3px 5.3px 4px rgba(0, 0, 0, 0.25);
+  width: 236px;
+  height: 79px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  padding: var(--padding-7xl);
+  box-sizing: border-box;
+  font-size: var(--font-size-26xl-5);
+  color: var(--color-white);
+  font-family: var(--font-roboto);
+}
+.desktop-7 {
+  width: 100%;
+  position: relative;
+  background-color: var(--color-white);
+  height: 941px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-11xl);
+  color: var(--color-black);
+  font-family: var(--font-poppins);
+}

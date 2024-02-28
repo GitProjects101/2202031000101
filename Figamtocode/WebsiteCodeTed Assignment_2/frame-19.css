@@ -1,0 +1,17 @@
+.sign-up-form {
+  position: absolute;
+  top: 77px;
+  left: 54px;
+  font-weight: 600;
+}
+.sign-up-form-parent {
+  width: 100%;
+  position: relative;
+  background-color: var(--color-white);
+  height: 454px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-181xl);
+  color: var(--color-gray-200);
+  font-family: var(--font-poppins);
+}

@@ -1,0 +1,117 @@
+.tedio2 {
+  position: absolute;
+  top: 12px;
+  left: 50px;
+  font-weight: 600;
+}
+.already-have-an {
+  margin: 0;
+  font-weight: 300;
+}
+.sign-in2 {
+  margin: 0;
+}
+.already-have-an-container,
+.create-account {
+  position: absolute;
+  top: 575px;
+  left: 67.9px;
+  display: inline-block;
+  width: 446.1px;
+  height: 100.1px;
+}
+.create-account {
+  top: 0;
+  left: 12px;
+  font-weight: 600;
+  width: 613px;
+  height: 116.8px;
+}
+.group-child,
+.group-item {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: var(--br-xs);
+  border: 3px solid var(--color-black);
+  box-sizing: border-box;
+  width: 583px;
+  height: 87.9px;
+}
+.group-item {
+  top: 115.7px;
+}
+.continue {
+  position: relative;
+}
+.continue-wrapper {
+  position: absolute;
+  top: 271.5px;
+  left: 0;
+  border-radius: var(--br-lg);
+  background-color: var(--color-gray-200);
+  box-shadow: 5.3px 5.3px 4px rgba(0, 0, 0, 0.25);
+  width: 583px;
+  height: 87.9px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  padding: var(--padding-7xl);
+  box-sizing: border-box;
+  font-size: var(--font-size-26xl-5);
+  color: var(--color-white);
+  font-family: var(--font-roboto);
+}
+.email,
+.password {
+  position: absolute;
+  top: 27.8px;
+  left: 16.7px;
+  display: inline-block;
+  width: 97.9px;
+  height: 33.4px;
+}
+.password {
+  top: 143.5px;
+  width: 144.6px;
+}
+.rectangle-parent {
+  position: absolute;
+  top: 148.9px;
+  left: 0;
+  width: 583px;
+  height: 359.3px;
+  font-size: var(--font-size-xl);
+  color: var(--color-gray-300);
+}
+.create-account-parent {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 625px;
+  height: 508.2px;
+  text-align: left;
+  font-size: var(--font-size-51xl);
+}
+.already-have-an-account-sign-parent {
+  position: absolute;
+  top: 148.9px;
+  left: 441px;
+  width: 625px;
+  height: 675.1px;
+  text-align: center;
+  font-size: var(--font-size-11xl);
+  color: var(--color-black);
+}
+.desktop-6 {
+  width: 100%;
+  position: relative;
+  background-color: var(--color-white);
+  height: 898px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-71xl);
+  color: var(--color-gray-200);
+  font-family: var(--font-poppins);
+}

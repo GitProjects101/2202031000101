@@ -1,0 +1,18 @@
+.home-page {
+  position: absolute;
+  top: 92px;
+  left: 173px;
+  font-weight: 600;
+  white-space: pre-wrap;
+}
+.home-page-parent {
+  width: 100%;
+  position: relative;
+  background-color: var(--color-white);
+  height: 454px;
+  overflow: hidden;
+  text-align: left;
+  font-size: 180px;
+  color: var(--color-gray-200);
+  font-family: var(--font-poppins);
+}

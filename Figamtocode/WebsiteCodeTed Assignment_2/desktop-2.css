@@ -1,0 +1,488 @@
+.we-know-how {
+  margin: 0;
+}
+.we-know-how-container {
+  position: absolute;
+  top: 212px;
+  left: 734px;
+  line-height: 90px;
+  font-weight: 500;
+}
+.our-tutors-make {
+  position: absolute;
+  top: 505px;
+  left: 734px;
+  font-size: var(--font-size-11xl);
+  line-height: 40px;
+  white-space: pre-wrap;
+  display: inline-block;
+  width: 708px;
+  height: 243px;
+}
+.get-started {
+  position: relative;
+}
+.get-started-wrapper {
+  position: absolute;
+  top: 724px;
+  left: 720px;
+  border-radius: var(--br-lg);
+  background-color: var(--color-midnightblue);
+  box-shadow: 10px 10px 4px rgba(0, 0, 0, 0.25) inset;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  padding: var(--padding-7xl);
+  font-size: var(--font-size-26xl);
+  color: var(--color-white);
+  font-family: var(--font-roboto);
+}
+.desktop-2-child,
+.desktop-2-item,
+.vector-icon {
+  position: absolute;
+  height: 4.54%;
+  width: 4.4%;
+  top: 90.25%;
+  right: 53.45%;
+  bottom: 5.21%;
+  left: 42.15%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  object-fit: contain;
+}
+.desktop-2-item,
+.vector-icon {
+  height: 4.59%;
+  width: 3.26%;
+  top: 86.13%;
+  right: 48.49%;
+  bottom: 9.28%;
+  left: 48.25%;
+}
+.desktop-2-item {
+  height: 2.54%;
+  width: 1.81%;
+  top: 82.43%;
+  right: 78.47%;
+  bottom: 15.03%;
+  left: 19.73%;
+}
+.desktop-2-inner {
+  height: 1.98%;
+  width: 1.41%;
+  top: 20.7%;
+  right: 58.31%;
+  bottom: 77.31%;
+  left: 40.28%;
+}
+.desktop-2-inner,
+.vector-icon1,
+.vector-icon2,
+.vector-icon3 {
+  position: absolute;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.vector-icon1 {
+  height: 5.04%;
+  width: 3.58%;
+  top: 5.57%;
+  right: 93.15%;
+  bottom: 89.39%;
+  left: 3.26%;
+  object-fit: contain;
+}
+.vector-icon2,
+.vector-icon3 {
+  height: 1.71%;
+  width: 1.22%;
+  top: 73.05%;
+  right: 92.88%;
+  bottom: 25.24%;
+  left: 5.9%;
+}
+.vector-icon3 {
+  height: 3.59%;
+  width: 2.56%;
+  top: 77.34%;
+  right: 90.78%;
+  bottom: 19.06%;
+  left: 6.67%;
+}
+.flakes-1-icon {
+  height: 9.03%;
+  width: 13.35%;
+  top: 5.47%;
+  right: 37.97%;
+  bottom: 85.5%;
+  left: 48.68%;
+}
+.flakes-1-icon,
+.flakes-2-icon,
+.group-icon1 {
+  position: absolute;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.flakes-2-icon {
+  height: 14.23%;
+  width: 13.08%;
+  top: 82.34%;
+  right: 5.53%;
+  bottom: 3.43%;
+  left: 81.4%;
+  object-fit: contain;
+}
+.group-icon1 {
+  height: 33.46%;
+  width: 22.28%;
+  top: 30.54%;
+  right: 76.82%;
+  bottom: 36.01%;
+  left: 0.9%;
+}
+.vector-icon4,
+.vector-icon5,
+.vector-icon6,
+.vector-icon7,
+.vector-icon8 {
+  position: absolute;
+  height: 17%;
+  width: 7.45%;
+  top: 30.85%;
+  right: 58.34%;
+  bottom: 52.15%;
+  left: 34.21%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.vector-icon5,
+.vector-icon6,
+.vector-icon7,
+.vector-icon8 {
+  height: 4.37%;
+  width: 18.06%;
+  top: 59.7%;
+  right: 56.76%;
+  bottom: 35.94%;
+  left: 25.18%;
+}
+.vector-icon6,
+.vector-icon7,
+.vector-icon8 {
+  height: 17.88%;
+  width: 12.63%;
+  top: 43.01%;
+  right: 54.94%;
+  bottom: 39.11%;
+  left: 32.43%;
+}
+.vector-icon7,
+.vector-icon8 {
+  height: 12.34%;
+  width: 7.51%;
+  top: 30.87%;
+  right: 58.32%;
+  bottom: 56.79%;
+  left: 34.17%;
+}
+.vector-icon8 {
+  height: 1.35%;
+  width: 0.07%;
+  top: 42.44%;
+  right: 63.13%;
+  bottom: 56.21%;
+  left: 36.8%;
+}
+.vector-icon10,
+.vector-icon11,
+.vector-icon12,
+.vector-icon13,
+.vector-icon9 {
+  position: absolute;
+  height: 12.3%;
+  width: 9.61%;
+  top: 28.03%;
+  right: 57.18%;
+  bottom: 59.67%;
+  left: 33.21%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.vector-icon10,
+.vector-icon11,
+.vector-icon12,
+.vector-icon13 {
+  height: 11.46%;
+  width: 4.69%;
+  top: 52.55%;
+  right: 54.78%;
+  bottom: 36%;
+  left: 40.53%;
+}
+.vector-icon11,
+.vector-icon12,
+.vector-icon13 {
+  height: 11.17%;
+  width: 5.93%;
+  top: 44.91%;
+  right: 54.65%;
+  bottom: 43.92%;
+  left: 39.42%;
+}
+.vector-icon12,
+.vector-icon13 {
+  height: 8.97%;
+  width: 5.65%;
+  top: 43.79%;
+  right: 63.6%;
+  bottom: 47.24%;
+  left: 30.75%;
+}
+.vector-icon13 {
+  height: 0.99%;
+  width: 0.77%;
+  top: 37.07%;
+  right: 58.81%;
+  bottom: 61.94%;
+  left: 40.42%;
+}
+.group-icon2,
+.vector-icon14,
+.vector-icon15,
+.vector-icon16,
+.vector-icon17,
+.vector-icon18 {
+  position: absolute;
+  height: 0.59%;
+  width: 0.42%;
+  top: 35.19%;
+  right: 64.83%;
+  bottom: 64.23%;
+  left: 34.75%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.group-icon2,
+.vector-icon15,
+.vector-icon16,
+.vector-icon17,
+.vector-icon18 {
+  top: 35.48%;
+  right: 62.19%;
+  bottom: 63.94%;
+  left: 37.39%;
+}
+.group-icon2,
+.vector-icon16,
+.vector-icon17,
+.vector-icon18 {
+  height: 0.22%;
+  width: 0.91%;
+  top: 34.74%;
+  right: 61.95%;
+  bottom: 65.04%;
+  left: 37.14%;
+}
+.group-icon2,
+.vector-icon17,
+.vector-icon18 {
+  height: 0.46%;
+  width: 0.86%;
+  top: 34.18%;
+  right: 64.48%;
+  bottom: 65.36%;
+  left: 34.66%;
+}
+.group-icon2,
+.vector-icon18 {
+  height: 2.57%;
+  width: 0.71%;
+  top: 35.48%;
+  right: 63.83%;
+  bottom: 61.95%;
+  left: 35.47%;
+}
+.group-icon2 {
+  height: 15.44%;
+  width: 5.85%;
+  top: 48.61%;
+  right: 54.78%;
+  bottom: 35.95%;
+  left: 39.37%;
+}
+.group-icon3,
+.vector-icon19,
+.vector-icon20,
+.vector-icon21,
+.vector-icon22 {
+  position: absolute;
+  height: 7.43%;
+  width: 20.49%;
+  top: 56.63%;
+  right: 56.76%;
+  bottom: 35.94%;
+  left: 22.76%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.group-icon3,
+.vector-icon20,
+.vector-icon21,
+.vector-icon22 {
+  height: 7.37%;
+  width: 20.51%;
+  bottom: 36%;
+  left: 22.73%;
+}
+.vector-icon20,
+.vector-icon21,
+.vector-icon22 {
+  height: 4.52%;
+  width: 4.19%;
+  top: 56.19%;
+  right: 66.69%;
+  bottom: 39.29%;
+  left: 29.12%;
+}
+.vector-icon21,
+.vector-icon22 {
+  height: 19.1%;
+  width: 5.9%;
+  top: 38.37%;
+  right: 66.52%;
+  bottom: 42.53%;
+  left: 27.58%;
+}
+.vector-icon22 {
+  height: 3.91%;
+  width: 4.59%;
+  top: 38.33%;
+  right: 67.86%;
+  bottom: 57.76%;
+  left: 27.55%;
+}
+.group-icon4,
+.vector-icon23,
+.vector-icon24,
+.vector-icon25,
+.vector-icon26 {
+  position: absolute;
+  height: 1.47%;
+  width: 1.33%;
+  top: 59.24%;
+  right: 67.75%;
+  bottom: 39.29%;
+  left: 30.92%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.group-icon4,
+.vector-icon24,
+.vector-icon25,
+.vector-icon26 {
+  height: 11.62%;
+  width: 1.09%;
+  top: 43.46%;
+  right: 69.91%;
+  bottom: 44.92%;
+  left: 29%;
+}
+.group-icon4,
+.vector-icon25,
+.vector-icon26 {
+  top: 43.47%;
+  right: 68.86%;
+  bottom: 44.91%;
+  left: 30.05%;
+}
+.group-icon4,
+.vector-icon26 {
+  top: 43.38%;
+  right: 67.78%;
+  bottom: 45%;
+  left: 31.13%;
+}
+.group-icon4 {
+  height: 5.85%;
+  width: 2.84%;
+  top: 46.49%;
+  right: 70.05%;
+  bottom: 47.66%;
+  left: 27.11%;
+}
+.group-icon5,
+.group-icon6,
+.vector-icon27,
+.vector-icon28,
+.vector-icon29 {
+  position: absolute;
+  height: 1.17%;
+  width: 6.41%;
+  top: 59.53%;
+  right: 68.27%;
+  bottom: 39.3%;
+  left: 25.32%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.group-icon5,
+.group-icon6,
+.vector-icon28,
+.vector-icon29 {
+  height: 9.52%;
+  width: 3.35%;
+  top: 48.61%;
+  right: 59.47%;
+  bottom: 41.87%;
+  left: 37.19%;
+}
+.group-icon5,
+.group-icon6,
+.vector-icon29 {
+  height: 0.46%;
+  width: 1.79%;
+  top: 39.16%;
+  right: 62.77%;
+  bottom: 60.38%;
+  left: 35.44%;
+}
+.group-icon5,
+.group-icon6 {
+  height: 5.07%;
+  width: 3.13%;
+  top: 35.96%;
+  right: 54.35%;
+  bottom: 58.97%;
+  left: 42.51%;
+}
+.group-icon6 {
+  height: 3.92%;
+  width: 12.03%;
+  top: 31.28%;
+  right: 70.83%;
+  bottom: 64.8%;
+  left: 17.14%;
+}
+.desktop-2 {
+  width: 100%;
+  position: relative;
+  background-color: var(--color-white);
+  height: 1024px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-51xl);
+  color: var(--color-gray-200);
+  font-family: var(--font-poppins);
+}
