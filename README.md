@@ -1,8 +1,3 @@
-we have created a online tutoring website named ted io for primary kids, write a readme or about the website in 300 words
-
-ChatGPT
-Welcome to Ted.io: Empowering Primary Education Online
-
 At Ted.io, we're passionate about revolutionizing primary education through personalized online tutoring. Our platform is designed to provide young learners with engaging, interactive, and effective learning experiences tailored to their individual needs.
 
 Mission
