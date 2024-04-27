@@ -1,0 +1,112 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Quote Generator</title>
+    <style>
+        body {
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: #ffe0b2; /* Light orange background */
+        }
+
+        .container {
+            max-width: 800px;
+            margin: 0 auto;
+            text-align: center;
+            padding: 20px;
+        }
+
+        h1 {
+            font-size: 36px;
+            color: #333;
+            margin-bottom: 20px;
+        }
+
+        p {
+            font-size: 18px;
+            color: #666;
+            margin-bottom: 20px;
+        }
+
+        .quote-img {
+            max-width: 100%;
+            height: auto;
+            margin-bottom: 20px;
+            border-radius: 10px;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+        }
+
+        .btn {
+            background-color: #4CAF50;
+            color: white;
+            padding: 10px 20px;
+            border: none;
+            border-radius: 5px;
+            cursor: pointer;
+            font-size: 16px;
+            transition: background-color 0.3s ease, transform 0.3s ease;
+            margin: 0 10px;
+        }
+
+        .btn:hover {
+            background-color: #45a049;
+            transform: scale(1.05);
+        }
+
+        .btn:active {
+            transform: scale(0.95);
+        }
+    </style>
+</head>
+<body>
+
+<!-- Homepage -->
+<div id="home" class="container">
+    <h1>Welcome to the Quote Generator</h1>
+    <img src="quote-img.jpg" alt="Inspirational Quote" class="quote-img">
+    <p>This simple quote generator provides you with random inspirational quotes to brighten your day!</p>
+    <button class="btn" onclick="togglePage()">Get Started</button>
+</div>
+
+<!-- Quote Generator -->
+<div id="quote-generator" class="container" style="display: none;">
+    <h1>Random Quote Generator</h1>
+    <div id="quote-container">
+        <p id="quote-text">Click the button to get a random quote!</p>
+    </div>
+    <button class="btn" onclick="generateQuote()">Generate Quote</button>
+    <button class="btn" onclick="togglePage()">Back to Home</button>
+</div>
+
+<script>
+    const quotes = [
+        "The only way to do great work is to love what you do. – Steve Jobs",
+        "Believe you can and you're halfway there. – Theodore Roosevelt",
+        "It does not matter how slowly you go as long as you do not stop. – Confucius",
+        "The future belongs to those who believe in the beauty of their dreams. – Eleanor Roosevelt",
+        "Success is not final, failure is not fatal: It is the courage to continue that counts. – Winston Churchill",
+        "You are never too old to set another goal or to dream a new dream. – C.S. Lewis",
+        "Everything you’ve ever wanted is on the other side of fear. – George Addair",
+        "The only limit to our realization of tomorrow will be our doubts of today. – Franklin D. Roosevelt",
+        "The best time to plant a tree was 20 years ago. The second best time is now. – Chinese Proverb",
+        "The way to get started is to quit talking and begin doing. – Walt Disney"
+    ];
+
+    let currentIndex = 0;
+
+    function generateQuote() {
+        const randomIndex = Math.floor(Math.random() * quotes.length);
+        document.getElementById('quote-text').textContent = quotes[randomIndex];
+    }
+
+    function togglePage() {
+        document.getElementById('home').style.display = (document.getElementById('home').style.display === 'none') ? 'block' : 'none';
+        document.getElementById('quote-generator').style.display = (document.getElementById('quote-generator').style.display === 'none') ? 'block' : 'none';
+    }
+</script>
+
+</body>
+</html>
